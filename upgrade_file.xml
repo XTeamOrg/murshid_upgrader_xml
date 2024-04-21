@@ -9,7 +9,7 @@
 <sparkle:tags>
 <sparkle:criticalUpdate/>
 </sparkle:tags>
-<enclosure url="https://play.google.com/store/apps/details?id=academy.qaamuus.qaamuus_acd_app" sparkle:version="1.0.1" sparkle:os="android"/>
+<enclosure url="https://play.google.com/store/apps/details?id=academy.qaamuus.qaamuus_acd_app" sparkle:version="1.0.0" sparkle:os="android"/>
 </item>
 </channel>
 </rss>
